@@ -47,7 +47,9 @@ Launch the app locally and use the **sidebar** to input a customer's details. Th
 Banking-Customers-Churn-Prediction/
 │
 ├── app.py                                      # Streamlit web application
-├── Churn_dataset.csv                           # Raw dataset
+├── Churn_dataset.csv
+├── README.md
+├── requirements.txt                     
 ├── Model.pkl                                   # Serialized trained model
 └── data_preprocessing_and_model_training.ipynb # EDA, preprocessing & model training notebook
 ```
