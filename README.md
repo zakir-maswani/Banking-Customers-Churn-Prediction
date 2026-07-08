@@ -34,6 +34,9 @@ Key highlights:
 
 ## 🎬 Demo
 
+𝗟𝗶𝘃𝗲 𝗔𝗽𝗽: 
+https://banking-customers-churn-prediction.streamlit.app/
+
 Launch the app locally and use the **sidebar** to input a customer's details. The app instantly predicts whether the customer is:
 
 - 🔴 **At Risk** — likely to churn
